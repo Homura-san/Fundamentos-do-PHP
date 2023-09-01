@@ -1,0 +1,2 @@
+Exemplo de texto para manipulação de arquivos 
+usando o php. 
