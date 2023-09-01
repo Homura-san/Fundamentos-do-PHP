@@ -1,5 +1,6 @@
+<html>
 <h2>Contato</h2>
-<form action="">
+<form action="" method="POST">
     <label>Nome:</label>
     <input type="text" name="nome" placeholder="Digite seu nome"><br><br>
     <label>Assunto:</label>
@@ -10,7 +11,7 @@
 </form>
 
 <?php
-if (isset($_POST['submit'])){
+if(isset($_POST['submit'])){
     $nome = $_POST['nome'];
     $assunto = $_POST['assunto'];
     $mensagem = $_POST['mensagem'];
@@ -20,3 +21,4 @@ if (isset($_POST['submit'])){
     echo "MENSAGEM: $mensagem<br><br>";
 }
 ?>
+</html>
