@@ -1,2 +1,47 @@
-Exemplo de texto para manipulação de arquivos 
-usando o php. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Vivamus vel vehicula sem. Aenean rutrum justo vel dui maximus efficitur. 
+Nam gravida at mi a condimentum. Morbi arcu nisi, condimentum quis vulputate vitae, 
+vehicula in arcu. Praesent bibendum dignissim hendrerit. Sed volutpat ante mauris, 
+nec finibus diam tempus id. Duis at leo a ex hendrerit sodales eu faucibus lacus. 
+Phasellus fermentum vestibulum augue, nec convallis augue sagittis vel. 
+Fusce rutrum aliquam condimentum. Cras accumsan leo et turpis rutrum aliquam. 
+Sed vel felis pretium, iaculis risus at, venenatis ipsum. 
+Morbi vulputate enim nisi, eu tristique nisl elementum nec. 
+Curabitur pellentesque nec leo eget consequat. 
+Vestibulum eu velit ultrices, pretium est a, egestas quam. 
+Donec nec dignissim ex. Proin a sollicitudin dolor.
+
+Proin a nisl at sapien congue tristique. 
+Maecenas ultricies ex sit amet leo ullamcorper bibendum. 
+Etiam sagittis velit bibendum risus pulvinar, lobortis venenatis mauris ultrices. 
+Praesent ac ante interdum, convallis augue nec, sagittis neque. In turpis justo, 
+viverra in ex eu, mattis rhoncus massa. Aliquam ut nisl in quam egestas vulputate. 
+Mauris augue augue, mollis quis odio id, commodo gravida magna. Nulla facilisi. 
+Pellentesque habitant morbi tristique senectus et netus et malesuada 
+fames ac turpis egestas.
+
+In vel dapibus tortor. Integer consequat tortor nibh, quis accumsan enim 
+convallis in. Curabitur eget ex ut lacus viverra mattis. Maecenas nec velit dolor. 
+Praesent sed lorem sit amet sem iaculis egestas. Vivamus tempor 
+ullamcorper nunc at rutrum. Fusce eros diam, tincidunt sed suscipit in, 
+fermentum in magna. Nam mattis eget tellus eget auctor.
+
+Morbi luctus ultricies mauris eget placerat. Integer iaculis sapien 
+at lectus bibendum consectetur. Duis malesuada quam urna, ut fringilla 
+magna dignissim vitae. Morbi iaculis porttitor elit vel semper. 
+Donec egestas odio dictum dignissim auctor. Mauris pulvinar enim non ornare blandit. 
+Fusce ullamcorper, ante in volutpat pharetra, quam lectus vehicula magna, 
+vel porttitor mauris metus et felis. Cras sed metus sed ex eleifend cursus.
+
+Aliquam volutpat rhoncus ex, sit amet dignissim sapien eleifend nec. 
+Quisque aliquet, nunc viverra lacinia posuere, justo urna laoreet elit, 
+a suscipit massa lacus convallis augue. Nulla sollicitudin eget tellus id condimentum.
+ Aliquam porta sagittis massa nec molestie. Morbi congue nibh ligula, 
+ nec sodales felis mollis a. Quisque non interdum velit. 
+ Interdum et malesuada fames ac ante ipsum primis in faucibus. 
+ In hac habitasse platea dictumst. Fusce interdum odio ut tristique ultricies. 
+ Curabitur sollicitudin augue vitae pellentesque blandit. 
+ Curabitur hendrerit porta dui ut rutrum. Sed auctor purus eu dictum euismod. 
+ Maecenas facilisis libero dolor, non vestibulum libero ultrices vitae. 
+ Sed cursus dolor in tellus pharetra porttitor. Nunc ornare mollis libero in volutpat.
+  Nullam porta lectus euismod eros egestas efficitur.
