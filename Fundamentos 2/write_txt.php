@@ -10,7 +10,8 @@ while (($linha = fgets($arquivo, 4096)) !== false) {
     $palavras = explode(' ', $linha);
     
 
-    $primeira = $palavras[0];
+    $primeira = $palavras[0] . '
+';
     // gravar o arquivo
     fwrite($gravar, $primeira);
 
