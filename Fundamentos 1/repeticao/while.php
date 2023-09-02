@@ -11,6 +11,7 @@
                 <p>$count</p>
             </div>";
             $count++;
+            # exit(); //encerra o laço while
         }
     ?>
     </body>
