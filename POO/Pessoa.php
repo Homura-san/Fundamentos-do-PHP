@@ -5,23 +5,14 @@ class Pessoa {
     Declara a classe Pessoa com uma descrição genérica de uma pessoa
 */
     
-    public $nome = 'nome-pessoa';
-    
-    // Visibilidade
-    public $a = 'a';
-    private $b = 'b'; // Um atributo privado não é acessível externamente
-    protected $c = 'c'; // Um atributo protegido não é acessível externamente
+    private $nome = 'nome-pessoa'; // protected funcionaria de forma semelhante
 
-    public function saudar(){
-        echo "Olá, $this->nome";
+    // Ler o nome
+    public function getNome(){
+        return $this->nome;
     }
-
-    public function ler_bc(){
-        echo $this->b;
-        $this->ler_c();
-    }
-
-    protected function ler_c(){
-        echo $this->c;
+    // Alterar o nome
+    public function setNome($novo_nome){
+        $this->nome = $novo_nome;
     }
 }
