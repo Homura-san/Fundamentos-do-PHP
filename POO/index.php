@@ -1,5 +1,16 @@
 <?php
 
+require_once 'Pessoa.php';
+$pessoa1 = new Pessoa();
+$pessoa1 -> nome = 'José';
+// echo $pessoa1->saudar();
+
+echo $pessoa1->a;
+//echo $pessoa1->b;
+//echo $pessoa1->c;
+$pessoa1->ler_bc();
+//$pessoa1->ler_c();
+
 // Programação Orientada a Objetos
 
 // Classes
@@ -20,8 +31,3 @@
 // // Objetos
 
 // $objeto = new NomeDaClasse();
-
-include 'Pessoa.php';
-$pessoa1 = new Pessoa();
-$pessoa1 -> nome = 'José';
-echo $pessoa1->saudar();
