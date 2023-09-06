@@ -7,7 +7,11 @@ class Pessoa extends Documentos {
     Declara a classe Pessoa com uma descrição genérica de uma pessoa
 */
     
-    private $nome = 'nome-pessoa'; // protected funcionaria de forma semelhante
+    public function __construct(protected $nome, protected $cpf)
+    {
+        $this->nome = $nome;
+        $this->cpf = $cpf;
+    }
 
     // Ler o nome
     public function getNome(){
