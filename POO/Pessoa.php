@@ -1,5 +1,5 @@
 <?php
-// Propriedades
+
 require_once 'Documentos.php';
 
 class Pessoa extends Documentos {
@@ -11,12 +11,10 @@ class Pessoa extends Documentos {
 
     // Ler o nome
     public function getNome(){
-        echo $this->mascara;
         return $this->nome;
     }
     // Alterar o nome
     public function setNome($novo_nome){
         $this->nome = $novo_nome;
-        echo "Escreva o CPF da sequinte forma: $this->mascara";
     }
 }

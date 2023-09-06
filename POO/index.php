@@ -6,9 +6,6 @@ require_once 'Documentos.php';
 $pessoa1 = new Pessoa();
 
 $pessoa1-> setNome('José');
-echo $pessoa1->getNome();
+$pessoa1->setCpf('111.222.333-44');
 
-echo "\n";
-
-$pessoa1->setCpf('000.111.222-33');
-echo $pessoa1->getCpf();
+echo 'Nome: ' . $pessoa1->getNome() . "\nCPF: " . $pessoa1->getCpf();
