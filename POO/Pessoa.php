@@ -10,7 +10,7 @@ class Pessoa extends Documentos {
     public function __construct(protected $nome, protected $cpf)
     {
         $this->nome = $nome;
-        $this->cpf = $cpf;
+        $this->cpf = Documentos::validaCpf($cpf);
     }
 
     // Ler o nome
